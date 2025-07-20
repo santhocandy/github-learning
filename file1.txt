@@ -1,0 +1,5 @@
+Hii I am file1 
+Here I will store some information
+This is macOS 
+My name is apple
+I like developers
